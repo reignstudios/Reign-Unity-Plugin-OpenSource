@@ -1,6 +1,8 @@
 Reign Unity Plugin OpenSource
 ==================
 
+Supports MemoryStreams only for portability.  If you wish to save files to a disk, use your file manager of choice.
+
 The "Reign Unity Plugin(s)" are copyright and owned by Andrew D. Witte and Philip J. Witte.
 
 This product is licenced under the BSD 2-Clause License.
