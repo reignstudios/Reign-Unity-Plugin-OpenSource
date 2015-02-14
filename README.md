@@ -9,7 +9,3 @@ This product is licenced under the BSD 2-Clause License.
 Please look at the licence for more info.
 
 This plugin is to be used at your own risk.  Reign-Studios, Andrew Witte or Philip Witte take no responsibility.
-
-Latest Unitypackage Build
-==================
-DropBox Link: https://www.dropbox.com/s/di1ng2iswj0ninw/OpenSource.unitypackage?dl=0
